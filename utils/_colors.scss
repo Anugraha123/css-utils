@@ -1,0 +1,15 @@
+@each $color, $value in $library-colors{
+	.color__#{ #{$color} }{
+		color: $value;
+	}
+
+	.colorbg__#{ #{$color} }{
+		background-color: $value;
+	}
+
+	.colorborder__#{ #{$color} }{
+		border-width: 1px;
+		border-style: solid;
+		border-color: $value;
+	}
+}

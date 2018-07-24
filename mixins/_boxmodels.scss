@@ -1,0 +1,19 @@
+// box model generator
+
+@mixin box-model($prefix, $model, $important: false) {
+	$override: '';
+
+	@if $important == true {
+		$override: '!important';
+	}
+
+	.box__#{$prefix}0 {
+		#{$model}: 0 #{$override};
+	}
+
+	@for $i from 1 through 4 {
+		.box__#{$prefix}#{$i} {
+			#{$model}: ms($i) #{$override};
+		}
+	}
+}

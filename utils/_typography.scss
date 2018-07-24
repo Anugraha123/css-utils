@@ -1,0 +1,21 @@
+// Sizes
+@each $size in 'tiny' 'small' 'regular' 'medium' 'large' 'xlarge' {
+	.font-size--#{$size} {
+		font-size: map-get($library-font-sizes, $size);
+	}
+}
+
+// Weights
+@each $weight in 'light' 'semi-bold' 'bold' {
+	.font-weight--#{$weight} {
+		font-weight: map-get($library-font-weights, $weight);
+	}
+}
+
+// Aligns
+@each $align in left center right {
+	.text-align--#{$align} {
+		display: block;
+		text-align: $align;
+	}
+}

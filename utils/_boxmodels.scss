@@ -1,0 +1,13 @@
+// Margin
+@include box-model('m', 'margin');
+@include box-model('mt', 'margin-top');
+@include box-model('mr', 'margin-right', true);
+@include box-model('mb', 'margin-bottom');
+@include box-model('ml', 'margin-left', true);
+
+// Padding
+@include box-model('p', 'padding');
+@include box-model('pt', 'padding-top');
+@include box-model('pr', 'padding-right', true);
+@include box-model('pb', 'padding-bottom');
+@include box-model('pl', 'padding-left', true);

@@ -1,0 +1,16 @@
+// [project name] font sizes
+$library-font-sizes: (
+	tiny: .72172rem,
+	small: .8rem,
+	regular: ms(0),
+	medium: ms(1),
+	large: ms(2),
+	xlarge: ms(3),
+);
+
+// [project name] font weights
+$library-font-weights: (
+	bold: 700,
+	'semi-bold': 600,
+	light: 300
+);

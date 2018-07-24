@@ -1,0 +1,267 @@
+.box__m0 {
+  margin: 0 ; }
+
+.box__m1 {
+  margin: ms(1) ; }
+
+.box__m2 {
+  margin: ms(2) ; }
+
+.box__m3 {
+  margin: ms(3) ; }
+
+.box__m4 {
+  margin: ms(4) ; }
+
+.box__mt0 {
+  margin-top: 0 ; }
+
+.box__mt1 {
+  margin-top: ms(1) ; }
+
+.box__mt2 {
+  margin-top: ms(2) ; }
+
+.box__mt3 {
+  margin-top: ms(3) ; }
+
+.box__mt4 {
+  margin-top: ms(4) ; }
+
+.box__mr0 {
+  margin-right: 0 !important; }
+
+.box__mr1 {
+  margin-right: ms(1) !important; }
+
+.box__mr2 {
+  margin-right: ms(2) !important; }
+
+.box__mr3 {
+  margin-right: ms(3) !important; }
+
+.box__mr4 {
+  margin-right: ms(4) !important; }
+
+.box__mb0 {
+  margin-bottom: 0 ; }
+
+.box__mb1 {
+  margin-bottom: ms(1) ; }
+
+.box__mb2 {
+  margin-bottom: ms(2) ; }
+
+.box__mb3 {
+  margin-bottom: ms(3) ; }
+
+.box__mb4 {
+  margin-bottom: ms(4) ; }
+
+.box__ml0 {
+  margin-left: 0 !important; }
+
+.box__ml1 {
+  margin-left: ms(1) !important; }
+
+.box__ml2 {
+  margin-left: ms(2) !important; }
+
+.box__ml3 {
+  margin-left: ms(3) !important; }
+
+.box__ml4 {
+  margin-left: ms(4) !important; }
+
+.box__p0 {
+  padding: 0 ; }
+
+.box__p1 {
+  padding: ms(1) ; }
+
+.box__p2 {
+  padding: ms(2) ; }
+
+.box__p3 {
+  padding: ms(3) ; }
+
+.box__p4 {
+  padding: ms(4) ; }
+
+.box__pt0 {
+  padding-top: 0 ; }
+
+.box__pt1 {
+  padding-top: ms(1) ; }
+
+.box__pt2 {
+  padding-top: ms(2) ; }
+
+.box__pt3 {
+  padding-top: ms(3) ; }
+
+.box__pt4 {
+  padding-top: ms(4) ; }
+
+.box__pr0 {
+  padding-right: 0 !important; }
+
+.box__pr1 {
+  padding-right: ms(1) !important; }
+
+.box__pr2 {
+  padding-right: ms(2) !important; }
+
+.box__pr3 {
+  padding-right: ms(3) !important; }
+
+.box__pr4 {
+  padding-right: ms(4) !important; }
+
+.box__pb0 {
+  padding-bottom: 0 ; }
+
+.box__pb1 {
+  padding-bottom: ms(1) ; }
+
+.box__pb2 {
+  padding-bottom: ms(2) ; }
+
+.box__pb3 {
+  padding-bottom: ms(3) ; }
+
+.box__pb4 {
+  padding-bottom: ms(4) ; }
+
+.box__pl0 {
+  padding-left: 0 !important; }
+
+.box__pl1 {
+  padding-left: ms(1) !important; }
+
+.box__pl2 {
+  padding-left: ms(2) !important; }
+
+.box__pl3 {
+  padding-left: ms(3) !important; }
+
+.box__pl4 {
+  padding-left: ms(4) !important; }
+
+.color__violet {
+  color: #9400D3; }
+
+.colorbg__violet {
+  background-color: #9400D3; }
+
+.colorborder__violet {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #9400D3; }
+
+.color__indigo {
+  color: #4B0082; }
+
+.colorbg__indigo {
+  background-color: #4B0082; }
+
+.colorborder__indigo {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #4B0082; }
+
+.color__blue {
+  color: #0000FF; }
+
+.colorbg__blue {
+  background-color: #0000FF; }
+
+.colorborder__blue {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #0000FF; }
+
+.color__green {
+  color: #00FF00; }
+
+.colorbg__green {
+  background-color: #00FF00; }
+
+.colorborder__green {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #00FF00; }
+
+.color__yellow {
+  color: #FFFF00; }
+
+.colorbg__yellow {
+  background-color: #FFFF00; }
+
+.colorborder__yellow {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FFFF00; }
+
+.color__orange {
+  color: #FF7F00; }
+
+.colorbg__orange {
+  background-color: #FF7F00; }
+
+.colorborder__orange {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FF7F00; }
+
+.color__red {
+  color: #FF0000; }
+
+.colorbg__red {
+  background-color: #FF0000; }
+
+.colorborder__red {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FF0000; }
+
+.font-size--tiny {
+  font-size: 0.72172rem; }
+
+.font-size--small {
+  font-size: 0.8rem; }
+
+.font-size--regular {
+  font-size: ms(0); }
+
+.font-size--medium {
+  font-size: ms(1); }
+
+.font-size--large {
+  font-size: ms(2); }
+
+.font-size--xlarge {
+  font-size: ms(3); }
+
+.font-weight--light {
+  font-weight: 300; }
+
+.font-weight--semi-bold {
+  font-weight: 600; }
+
+.font-weight--bold {
+  font-weight: 700; }
+
+.text-align--left {
+  display: block;
+  text-align: left; }
+
+.text-align--center {
+  display: block;
+  text-align: center; }
+
+.text-align--right {
+  display: block;
+  text-align: right; }
+
+/*# sourceMappingURL=main.css.map */
