@@ -226,22 +226,22 @@
   border-color: #FF0000; }
 
 .font-size--tiny {
-  font-size: 0.72172rem; }
+  font-size: 6px; }
 
 .font-size--small {
-  font-size: 0.8rem; }
+  font-size: 8px; }
 
 .font-size--regular {
-  font-size: ms(0); }
+  font-size: 14px; }
 
 .font-size--medium {
-  font-size: ms(1); }
+  font-size: 16px; }
 
 .font-size--large {
-  font-size: ms(2); }
+  font-size: 18px; }
 
 .font-size--xlarge {
-  font-size: ms(3); }
+  font-size: 24px; }
 
 .font-weight--light {
   font-weight: 300; }
