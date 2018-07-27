@@ -13,7 +13,7 @@
 
 	@for $i from 1 through 4 {
 		.box__#{$prefix}#{$i} {
-			#{$model}: ms($i) #{$override};
+			#{$model}: $i * 1rem #{$override};
 		}
 	}
 }
